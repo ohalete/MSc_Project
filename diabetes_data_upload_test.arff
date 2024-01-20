@@ -1,0 +1,68 @@
+@relation diabetes_data_upload-weka.filters.unsupervised.instance.Resample-S1-Z70.0-no-replacement-V-weka.filters.unsupervised.instance.Resample-S1-Z70.0-no-replacement-V
+
+@attribute Age numeric
+@attribute Gender {Male,Female}
+@attribute Polyuria {No,Yes}
+@attribute Polydipsia {Yes,No}
+@attribute 'sudden weight loss' {No,Yes}
+@attribute weakness {Yes,No}
+@attribute Polyphagia {No,Yes}
+@attribute 'Genital thrush' {No,Yes}
+@attribute 'visual blurring' {No,Yes}
+@attribute Itching {Yes,No}
+@attribute Irritability {No,Yes}
+@attribute 'delayed healing' {Yes,No}
+@attribute 'partial paresis' {No,Yes}
+@attribute 'muscle stiffness' {Yes,No}
+@attribute Alopecia {Yes,No}
+@attribute Obesity {Yes,No}
+@attribute class {Positive,Negative}
+
+@data
+27,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+72,Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive
+57,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+45,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+68,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive
+35,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+36,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+44,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+30,Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive
+30,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+44,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Positive
+55,Female,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Negative
+42,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+47,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+58,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative
+40,Male,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Positive
+65,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Positive
+48,Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive
+38,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+72,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+55,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+35,Female,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+47,Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive
+48,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive
+48,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive
+30,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+50,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative
+27,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+63,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive
+28,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+48,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+35,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative
+37,Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive
+57,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+40,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+47,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Positive
+36,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+63,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive
+38,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+53,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+53,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive
+55,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+50,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+35,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+40,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive
+50,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+35,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
